@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vyom a Full Stack Develper, Fresher, And an Open Source Enthusiast.   
-- 👀 I’m interested in ... Hackathons and 
+- 👀 I’m interested in ... Hackathons  !
 - 🌱 I’m currently learning ... New Tech Stack, Blockchain & Exploring Machine Learning !
 - 💞️ I’m looking to collaborate with entrepreneurial minded Developers !
 - 📫 How to reach me ... vyomks5@gmail.com
